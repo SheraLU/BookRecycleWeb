@@ -192,7 +192,7 @@ margin: 0 auto;
 	-webkit-appearance:searchfield;
 	appearance:searchfield;
 	width: 400px;
-	border: 1px;
+	border: 1px solid #d3d7d4;
 	text-indent: 1em;
 	font-weight: normal;
 }
