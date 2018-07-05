@@ -1,0 +1,28 @@
+#content{
+  padding-top: 100px;
+  width: 80%;
+  margin: 0 auto;
+}
+.left{
+  float: left;
+  width: 60%;
+}
+#right{
+  margin-left: 2%;
+  width: 35%;
+  float: right;
+
+}
+.card{
+  margin-bottom: 20px;
+  padding: 5px;
+  -webkit-box-shadow:1px 1px 1px 1px #d9d6c3;
+  box-shadow:1px 1px 1px 1px #d9d6c3;
+}
+.page-header{
+  font-size: 2em;
+}
+footer{
+  position: relative;
+  top:10px;
+}
